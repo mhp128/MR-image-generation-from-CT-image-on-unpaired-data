@@ -1,7 +1,7 @@
-main.ipynb: File chính của đề tài, chứa kiến trúc mô hình, quá trình huấn luyện
+main.ipynb: Xây dựng và huấn luyện mô hình đề xuất, bao gồm các công đoạn xử lý chính
 
-nnUNet_training.ipynb: File huấn luyện mô hình nnUNet
+nnUNet_training.ipynb: Huấn luyện mô hình nnUNet dùng để phân đoạn gan trong ảnh MR
 
-data_preprocessing.ipynb: File tiền xử lí dữ liệu cho việc huấn luyện mô hình nnUNet
+data_preprocessing.ipynb: Tiền xử lí dữ liệu cho việc huấn luyện mô hình nnUNet
 
-ct_filtering: File lọc bớt ảnh CT để cân bằng với ảnh MRI
+ct_filtering: Lọc bớt ảnh CT để cân bằng với ảnh MRI
